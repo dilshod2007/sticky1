@@ -1,0 +1,22 @@
+body {
+    border: 2px solid red;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+main {
+    flex: 1;
+}
+
+
+header {
+    background-color:#aaa;
+    padding: 20px;
+}
+footer {
+    text-align: center;
+    background-color:blue;
+    color: white;
+    padding: 10px;
+
+}
